@@ -2,17 +2,12 @@
 
 If you are reading this, I, like Tommy, have disappeared to Froopyland and I miss you already. There's a lot here, but the first order of business is telling people.
 
-Contact the following friends and family directly before announcing it on Twitter. Open up my laptop, create a note, then copy/paste it to:
+Contact the following friends and family directly before announcing it on social media or my websites. Open up my laptop, create a note, then copy/paste it to:
 
-* iMessages: Blake, Brother, Brother 2
-* WhatsApp: Aaron
-* Facebook: Dad, dad’s phone number is in my phone too
-* Skype: Peter
-* Discord: Look in my chat list and message anyone I've talked about recently. So far, it's David, Jenn and Claudette.
-* Google chat or email: Melanie
-* Instagram or email: JoeB
-
-Then let ppl on Twitter, Facebook and Instagram know.
+* Messages: Mom, Dad, Brother, Partner
+* WhatsApp: Partner
+* Discord: Look in my chat list and message anyone I've talked about recently. So far, it's Scooter, Rae, Vic and Eric.
+* Google email: Parents
 
 ## Tech
 
@@ -20,25 +15,28 @@ This section covers the topics that will help you access my emails and website l
 
 ### Emails
 
-As you know, I primarily use me@fake.com. You can login through my phone or laptop. Keep my phone and laptop until you haven't used them for one year just in case a 2FA issue comes up.
+As you know, I primarily use __________@gmail.com. You can login through my phone or laptop. Keep my phone and laptop until you haven't used them for one year just in case a 2FA issue comes up.
 
-* me@fake.com – password is stored in xyz
-* this@that.com – all emails from this get forwarded to me@fake.com
+* _____@gmail.com – password is stored in xyz
+* _____encryot@protonmail.com – important emails from gmail get forwarded to this.
 
 Add me@fake.com to your phone, actually, since that's where we get our shipping alerts.
 
 ### Domains and blogs
 
-* All of my domains are managed via Google Domains and CloudFlare
-  * Google Domains auto renews and needs an updated Credit Card to keep going
-* xyz.io – Keep this paid via Google Domains or transfer to Danielle Smith 
-* fakblog.com – Transfer to Blake
+* All of my domains are managed via Porkbun
+  * Porkbun auto renews .org and needs an updated Credit Card to keep going
+  * Other domains are secured until 2034. Access Porkbun dashboard to adjust.
 
 ### Password Managers
 
 You know how to use this since we've incorporated it into our lives.
 
-* KeePass. My master password is (printed, no script): _________________________________________
+* Proton Pass. My master password is (printed, no script): _________________________________________
+* Some passwords are in a master password protected .pdf, it is (printed) ____________________________
+* More important passwords are not wrriten here, handwritten on paper in safe.
+
+<!--  CHANGE ALL BELOW ON NEXT COMMIT -->
 
 ### Subscriptions
 
