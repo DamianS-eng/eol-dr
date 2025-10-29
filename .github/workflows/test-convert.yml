@@ -1,5 +1,5 @@
 name: Convert markdown to Word
-on: push
+on: workflow_dispatch
 
 jobs:
   temp_conversion_via_pandoc:
