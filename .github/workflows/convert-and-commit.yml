@@ -1,8 +1,6 @@
 name: Convert markdown to Word
 on:
-  push:
-    branches:
-      - main
+  push
 
 jobs:
   convert_via_pandoc:
