@@ -153,51 +153,49 @@ This little black box stores all of our backups that we don't want going to the 
 
 ### Websites
 
-* BlueHost – let Blake know to look out for a bill each March as this is where fakblog.com is hosted
+* Porkbun – let Blake know to look out for a bill each March as this is where fakblog.com is hosted
   * Transfer ownership to Blake and have him contact Bluehost support to reset all passwords
-* CloudFlare – this does some advanced shit but is free. Login via Authy. Blake may want to know this too.
+* Webhostmost – this does some advanced shit but is free. Login via Authy. Blake may want to know this too.
+* Noip - connects to website from server on smaller half tower PC
 
 ### Tech Tips
 
-* Do not EVER sell anything with a hard drive without formatting the hard drives first. Ask any of our tech friends to help.
-* Do not EVER try to sell an Apple product without following their instructions to wipe before reselling. Apple is special and associates Find My with your account so it prevents theft. The person won’t be able to use it if you don’t unregister the device.
+* Do not EVER sell any phone or computer with a hard drive without formatting the devices first. Ask any of our tech friends to help.
+* I have no Apple devices, but as general advice, Do not EVER try to sell an Apple product without following their instructions to wipe before reselling. Apple is special and associates Find My with your account so it prevents theft. The person won’t be able to use it if you don’t unregister the device.
 
 ## Input
 
 This is the section where money lands or exists.
 
-### Bank Accounts and Virtual Currency
+### Bank Accounts
 
-We have a couple bank accounts that serve different purposes. One is good for paying international bills, the other comes with some great insurance, and yet another is an old account I've had for a while. It's good for your credit to have a couple bank accounts too.
+We have a couple bank accounts that serve different purposes. One is good for paying most bills, the other has a local bank. It's good for your credit to have a couple bank accounts too.
 
-You use PayPal a lot, so don't close it but feel free to ask a friend to help you change the email addres if you want. It may come with further confirmation.
+You use Chase a lot, so don't close it but feel free to ask a friend to help you change the email address if you want. It may come with further confirmation.
 
-* Fak Bank
-  * Checking / Savings
-  * Good loan rates
+* Chase Bank
+  * Checking
   * Can pay international bills via IBAN
-  * PIN for card: 2553
-  * Funds available for immediate use after joint holder is deceased. Spoke with Jan Dodekens and set aside 20,000 euros
-* United States Bank 
+  * PIN for card: ____
+  * Funds available for immediate use after holder is deceased
+* TD Bank
   * Checking / Savings
   * Has great reputation for car insurance and other insurances
   * Cannot pay IBAN bills
   * PIN for card: Stored in Password1
-* First Business of America
-  * Get the money out and cancel it
-  * It’s an old business account that sometimes came in handy for me but high monthly fees
-  * PIN for card: No idea, I don't use it
+* Ally Bank
+  * Online
+  * Transfer all funds to local bank, then close account 
 * PayPal
-  * Login with me@fake.com like you always do along with 2FA
-* VirtCoin
-  * Maybe it’ll make money in the future but right now it’s losing money
-  * The app is hard to navigate. Reach out to Emily for help.
+  * Should have no balance, cancel as soon as possible
+* Venmo
+  * Should have no balance, cancel as soon as possible
 
 ### Life Insurance
 
 I get this through my employer.
 
-Fidelity has all of our life insurance and you should receive X amount if I go to Froopyland for natural causes or XX amount if I go to Froopyland due to an accident because our AD&D is maxxed, waxxed and vaxxed.
+Asensus has all of our life insurance and you should receive X amount if I go to Froopyland for natural causes or XX amount if I go to Froopyland due to an accident because our AD&D is maxxed, waxxed and vaxxed.
 
 ### Residual income – auto deposits to United States Bank
 
@@ -217,72 +215,68 @@ Call Fidelity to ask for some advice if you need. I just set it and forget it.
 
 ## Output
 
-This is the section with bills and things you gotta pay. Everything is on auto-pay so no stress. Just keep money in Fak Bank and United States Bank.
+This is the section with bills and things you gotta pay. Everything is on auto-pay so no stress. Just keep money in TD and Chase Bank.
 
-### Ongoing Insurance Accounts
-
-* State Farm has all of our car and house and umbrella insurances
-  * They charge like $100/mo to Fak Bank
-* Aetna International Health Insurance
-  * The app is on my phone
-  * Just pay first, then upload bills and they’ll pay you back
-
-### Credit Cards and Loans
+### Credit Cards
 
 * Chase
   * Emergency Credit Card has 50k limit
   * Has a high APR so don’t use it unless you have to
   * It’s set to auto-pay so if you charge 50k in one month, that’ll be deducted from your bank account at the end of the month so again, be careful
-* Fak Bank 
-  * Holds our car loan and $550 is deducted each month automatically. Will be paid off in Jan 2025.
-* Fannie Mae
-  * Holds our student loans, $1200 is deducted each month automatically from Fak Bank. Should be paid off in 3 years. Consider paying these off with insurance money ahead of time to save on interest.
+* Macys 
+  * Pay off the balance and cancel as soon as possible
+    * In my experience, cancellation must be done over the phone. Their technology sucks
+* Capital One
+  * Pay off the balance and cancel as soon as possible
+* No loans
+  * Report death to all credit bureaus
 
 ### Cell Phone & Internet
 
-* Auto paid to Orange via our United States Bank account
-* Contract ends in 2 years but can be cancelled with 3 months notice
+* Auto paid (_______) Mobile data plan annually our Chase Bank account
+  * Can be cancelled before end of last month
 * Billy Dominguez can speak European and can help you navigate cancelling, most likely. Maybe work can too.
 
 ### Bill Auto Pay
 
 A few bills are setup to automatically charge us. Rent, however, is setup as a recurring bill. So cancel this when you move. Ask a friend to help you get this in order because you may forget.
 
-* State Farm
-  * Car & House insurance, call to update any time you move
-* United States Bank
-  * Electric company (Electricitease) charges us directly each month
-  * Orange charges us $15 each month
-  * Student Loan ($1200/mo)
-  * State Farm insurance ($100/mo)
-* United States Bank
-  * This account has recurring bill pay to pay our rent
+* Geico
+  * Car & Renters insurance, call to update any time you move
+    * Car insurance renews every six months, renter's every 3 months
+* Chase Bank
+  * Electric company (_________) charges us directly each month
+  * Gas company (___________) charges us directly each month
+  * Internet company (X_________) charges us directly each month
+  * The car is leased to (_________). Charged directly every month, but reach out directly if car is not needed
+* TD Bank
+  * This account has recurring bill pay to pay monthly rent
 
 ## Misc
 
 ### Financial Advisor
 
-Contact Fidelity to learn how to invest your insurance money
+Contact Vanguard to learn how to invest the brokerage money
 
 ### Accountant
 
-Our accountant Tracey Calendar (tracey@calendarcpa.com) can help you figure out a lot of things and perhaps give you advice on anything I missed. They know our financial history from the past 10 years.
+Our accountant Tracey Calendar (_________@_________.___) can help you figure out a lot of things and perhaps give you advice on anything I missed. They know our financial history from the past 10 years.
 
 Ask our accountant or look over our finances to see any new 1099s if this list gets outdated.
 
-Also, if you feel overwhelmed by all of this, ask her to perhaps switch the way we pay our taxes and don't take deductions.
-
 ### Answers to common security questions
 
-* First dog: Jackson
-* Dad's middle name: Henry
-* Mom's maiden name: Smithe
-* Street I grew up on: Maine Street
-* First car: Toyota Celica
-* First School: Menlo Elementary
+* First pet: ________
+* Dad's middle name: ________
+* Mom's maiden name: ________
+* Street I grew up on: ___________
+* First car: ___________
+* First School: _____________
+* High School Mascot: _____________
 
 ### Physical Security
 
-* Medicine cabinet PIN: 59938
-* Weapons cabinet PIN: 9119119
-* Safe combo: Left - 89, right 33, Spin twice left then: 51
+* Partner's Safe Pin: _____
+* Weapons cabinet PIN: ________
+
+* No Safe
